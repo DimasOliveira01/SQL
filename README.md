@@ -1,6 +1,6 @@
 # Projetos e estudos de SQL
 
-<h1>Projeto CAC</h1>
+<h2>Projeto CAC</h2>
 
 Na pasta ProjetoCac possui um projeto de Banco de Dados desde a sua modelagem até a implementação.
 Existem 3 arquivos, os quais são divididos da seguinte forma:

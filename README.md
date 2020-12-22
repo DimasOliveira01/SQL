@@ -1,6 +1,7 @@
 # Projetos e estudos de SQL
 
-<h2>Projeto CAC</h2>
+<h1>Projeto CAC</h1>
+
 Na pasta ProjetoCac possui um projeto de Banco de Dados desde a sua modelagem até a implementação.
 Existem 3 arquivos, os quais são divididos da seguinte forma:
 - Projeto_CONCEITUAL: neste arquivo foi desenvolvido o Modelo Entidade Relacionamento (MER) do projeto através do brModelo. Caso não seja possível verificar o projeto conceitual no programa brModelo também deixei uma imagem com extensão .jpg, denominado Conceitual;
